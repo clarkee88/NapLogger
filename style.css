@@ -33,10 +33,12 @@ body {
 .timepicker-start{
     font-size:1.5em;
     font-weight: bold;
+    color:black;
 }
 
 .timepicker-end{
     font-size:1em;
+    color:black;
 }
 
 /* Container around content */
